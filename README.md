@@ -13,5 +13,4 @@ The current myxtsum2 package was developed to fix the following issues that are 
 (2) myxtsum does not report separete N n Tbar for each variable. Instead it reports these figures of the last variable in the varlist. In the following esttab, these three statistics are listed at the bottom. This may lead to a false impression that they described the overall data when actually they are just for the last variable used.
 
 Contact:
-
 Min Zhang, zhangmin.ac@gmail.com
